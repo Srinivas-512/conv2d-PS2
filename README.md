@@ -12,4 +12,4 @@ Loss convergence at the time of submission of the predicitions form was 0.0276 M
 
 All code has been written from scratch including the model.
 
-Saved weights for the best model at the time of submission of predictions form and dataset are also uploaded on this repo for reference.
+Saved weights for the best model at the time of submission of predictions form are uploaded on this repo for reference.
